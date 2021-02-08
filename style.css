@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+
+h1 { 
+    text-align: left;
+    color:grey;
+}
+
+.footerleft {
+    text-align: left;
+
+}
+
+.imgcontainer {
+    width: 300px;
+    position: relative;
+    height: 200px;
+}
+
+
+
+.imgcontainer img {
+    position: absolute;
+    width: 100%;
+
+
+}
+
+.heart {
+    width: 100px;
+    position: relative;
+    height: 100px;
+}
+
+
+
+.heart img {
+    position: absolute;
+    width: 100%;
+
+}
+
+
